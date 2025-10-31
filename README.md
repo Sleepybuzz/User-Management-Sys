@@ -25,5 +25,3 @@ Protected with Basic Authentication for demonstration purposes.
 
 Use Basic Auth with the credentials set in your `.env`.
 
-## Notes
-- This project is for learning/demo purposes. Do not use Basic Auth in production without HTTPS.
